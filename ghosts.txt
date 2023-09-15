@@ -1,5 +1,5 @@
 casper
 ned
-boo
+stan
 jerry
 kevin
